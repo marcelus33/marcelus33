@@ -1,16 +1,48 @@
-### Hi there 👋
+# Marcelo Bresani
 
-<!--
-**marcelus33/marcelus33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome!
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a web developer always looking for new challenges and eager to learn, really interested in doing the things well and creating innovative solutions. Very passionate about Frontend but with a knowledge about Backend technologies.
+
+<br />
+
+- 💻 I'm currently working on freelancer and personal projects.
+- 🌱 I’m currently learning Graphql, Dart, Flutter and GetX.
+- 👨🏻‍💻 I want to improve my knowledge about Software Architecture and Project Management.
+- 🤔 I would like to teach other people to code and to solve problems.
+- 💬 Ask me about: Python, Django, Javascript, React Native. 
+- 🐈 Other interests: music, philosophy, economics, psychology.
+
+<br />
+
+### Languages, frameworks and tools:
+
+ * HTML5, CSS3, Bootstrap <br />
+ * Javascript, Python, PHP <br />
+ * React, JQuery <br />
+ * Django, Django Rest, Flask <br />
+ * Yii, Slim <br />
+ * PostgreSQL, MySQL <br />
+ * VSCode, Pycharm, DBeaver <br />
+ * Linux Ubuntu, Linux Mint, Windows 10
+
+
+<br />
+
+---
+
+### Contact & social networks:
+
+[<img align="left" alt="marcelus33 | LinkedIn" width="32px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="marcelus33 | LinkedIn" width="32px" src="https://img.icons8.com/color/48/000000/stackoverflow.png" />][stackoverflow]
+[<img align="left" alt="marcelus33" width="32px" src="https://img.icons8.com/color/48/000000/email.png" />][email]
+[<img align="left" alt="marcelus33" width="32px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
+
+<br />
+
+[email]: mailto:marcelob_33@hotmail.com
+[linkedin]: https://www.linkedin.com/in/marcelo-bresani/
+[stackoverflow]: https://stackoverflow.com/users/11307764/marcelob33
+[twitter]: https://twitter.com/marcelobresanig
