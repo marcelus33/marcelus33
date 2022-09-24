@@ -4,8 +4,7 @@
 
 <br />
 
-I'm a web developer always looking for new challenges and eager to learn, really interested in doing the things well and creating innovative solutions. Very passionate about Frontend but with a knowledge about Backend technologies.
-
+I'm a web developer always looking for new challenges and eager to learn, really interested in doing the things well and creating innovative solutions. 
 <br />
 
 - 💻 I'm currently working on freelance and personal projects.
