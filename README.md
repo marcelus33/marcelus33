@@ -9,7 +9,7 @@ I'm a web developer always looking for new challenges and eager to learn, really
 <br />
 
 - 💻 I'm currently working on freelance and personal projects.
-- 🌱 I’m currently learning Graphql, Dart, Flutter and GetX.
+- 🌱 I'm currently improving my skills learning Redux and Redux-Saga.
 - 👨🏻‍💻 I want to improve my knowledge about Software Architecture and Project Management.
 - 🤔 I would like to teach other people to code and to solve problems.
 - 💬 Ask me about: Python, Django, Javascript, React Native. 
