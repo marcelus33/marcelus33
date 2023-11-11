@@ -8,24 +8,23 @@ I'm a web developer always looking for new challenges and eager to learn, really
 <br />
 
 - 💻 I'm currently working on freelance and personal projects.
-- 🌱 I'm currently improving my skills learning Redux and Redux-Saga.
+- 🌱 I'm currently improving my skills in ReactJS.
 - 👨🏻‍💻 I want to improve my knowledge about Software Architecture and Project Management.
 - 🤔 I would like to teach other people to code and to solve problems.
-- 💬 Ask me about: Python, Django, Javascript, React Native. 
+- 💬 Ask me about: Python, Django, Javascript, React. 
 - 🐈 Other interests: music, philosophy, economics, psychology.
 
 <br />
 
 ### Languages, frameworks and tools:
 
- * HTML5, CSS3, Bootstrap <br />
+ * HTML5, CSS3, Bootstrap, Tailwindcss <br />
  * Javascript, Python, PHP <br />
  * React, JQuery <br />
  * Django, Django Rest, Flask <br />
- * Yii, Slim <br />
  * PostgreSQL, MySQL <br />
  * VSCode, Pycharm, DBeaver <br />
- * Linux Ubuntu, Linux Mint, Windows 10
+ * Linux Ubuntu
 
 
 <br />
