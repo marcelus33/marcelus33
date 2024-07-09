@@ -18,13 +18,12 @@ I'm a web developer always looking for new challenges and eager to learn, really
 
 ### Languages, frameworks and tools:
 
- * HTML5, CSS3, Bootstrap, Tailwindcss <br />
+ * HTML5, CSS3, Bootstrap, Tailwindcss, MaterialUI <br />
  * Javascript, Python, PHP <br />
- * React, JQuery <br />
- * Django, Django Rest, Flask <br />
- * PostgreSQL, MySQL <br />
- * VSCode, Pycharm, DBeaver <br />
- * Linux Ubuntu
+ * React, Redux, MobX, JQuery <br />
+ * Django, Django Rest Framework <br />
+ * PostgreSQL, Celery, Nginx <br />
+ * Ubuntu
 
 
 <br />
