@@ -8,9 +8,8 @@ I'm a web developer always looking for new challenges and eager to learn, really
 <br />
 
 - 💻 I'm currently working on freelance and personal projects.
-- 🌱 I'm currently improving my skills in ReactJS.
 - 👨🏻‍💻 I want to improve my knowledge about Software Architecture and Project Management.
-- 🤔 I would like to teach other people to code and to solve problems.
+- 🤔 I'm really interested in working with Ruby and RoR.
 - 💬 Ask me about: Python, Django, Javascript, React. 
 - 🐈 Other interests: music, philosophy, economics, psychology.
 
